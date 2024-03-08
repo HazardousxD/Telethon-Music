@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps
 from youtubesearchpython.__future__ import VideosSearch
  
 MUSIC_BOT_NAME = "Telethon Music"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/95d96663b73dbf278f28c.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/606ae6808b87e30f16a6c.jpg"
 files = [] 
 
 for filename in os.listdir("./thumbnail"): 
