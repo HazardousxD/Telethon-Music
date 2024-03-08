@@ -11,7 +11,7 @@
 <p align="center"><a href="https://youtu.be/Uzof6djzD-M"> <img src="https://img.shields.io/badge/Railway%20Deploy-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p> 
 
 <p align="center">Heroku </p>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Itz-Zaid/Telethon-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/HazardousxD/Telethon-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Local Deployment Process
 ```sh
@@ -21,7 +21,7 @@ pip3 install -U pip
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash 
 source ~/.bashrc
 nvm install v18 #nodejs 18+
-git clone https://github.com/ITZ-ZAID/Telethon-Music # clone the repo.
+git clone https://github.com/HazardousxD/Telethon-Music # clone the repo.
 cd Telethon-Music
 pip3 install -U -r requirements.txt
 nano config.py #edit your vars separate by space
