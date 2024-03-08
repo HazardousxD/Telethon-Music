@@ -10,8 +10,8 @@ class Config(object):
     BOT_USERNAME = "Zaid2_Robot" #Your Bot username 
     SUPPORT = "TheSupportChat" #optional
     CHANNEL = "TheUpdatesChannel" #optional
-    START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
-    CMD_IMG = "https://telegra.ph/file/66518ed54301654f0b126.png"
+    START_IMG = "https://graph.org/file/606ae6808b87e30f16a6c.jpg"
+    CMD_IMG = "https://graph.org/file/606ae6808b87e30f16a6c.jpg"
     ASSISTANT_ID = int(1234567890) #your string added account user id..
     AUTO_LEAVE_TIME = int(54000) # in seconds
     AUTO_LEAVE = True #Optional
